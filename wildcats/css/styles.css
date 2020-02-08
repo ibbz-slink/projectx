@@ -1,0 +1,28 @@
+.important {
+    color: khaki;
+    font: size 25;
+    font-weight: 900;
+    background-color: black; background-size: cover;width:max-content;
+  }
+  .unimportant {
+    color: darkcyan;
+    background-color: rgb(54, 50, 50);
+  }
+h1 {
+    color: whitesmoke;
+    background-color: rgb(59, 51, 51);background-size: cover;width: max-content;
+    font-size: xx-large;
+    float: inline-start;
+     font-style: bold;
+     box-shadow:rgb(21, 12, 30);
+     text-size-adjust:center ;
+     text-overflow: ellipsis;
+     text-decoration: rgb(86, 255, 80);
+      text-underline-position: below;
+}
+.box-with-text{
+    background-image:../wildcats/image/styles.css
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip:text;
+    
+}
